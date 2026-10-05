@@ -1,26 +1,41 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7k7k7k&customColorList=10,12,24,38&height=220&section=header&text=Ana%20Júlia%20Firmiano&fontSize=42&fontColor=a855f7&animation=twinkling&desc=Engenharia%20de%20Dados&descSize=18&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
-</div>
 
-<div align="center">
-  <h3>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Engenheira+de+Dados;Transformando+dados+em+solu%C3%A7%C3%B5es;Python+%7C+SQL+%7C+Engenharia+de+Dados" alt="Typing Animation" />
-    </a>
-  </h3>
+  <!-- Banner Topo -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58111A&height=200&section=header&text=Ana%20Júlia%20Ferreira%20Firmiano&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Engenheira%20de%20Dados&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+
+  <br />
+
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=800020&center=true&vCenter=true&width=500&height=50&lines=Engenheira+de+Dados;Transformando+dados+em+insights;Python+%7C+SQL" alt="Typing SVG" />
+  </a>
+
+  <br />
+
+  <!-- Social Links -->
+  <a href="https://www.linkedin.com/in/ana-júlia-ferreira-firmiano-454966258" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=722F37" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/anajufirmiano/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=722F37" alt="Instagram" />
+  </a>
+  <a href="mailto:anajulia@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=722F37" alt="Email" />
+  </a>
+
 </div>
 
 <br />
 
 ---
 
-### 💜 Sobre Mim
+### 🖤 Sobre Mim
 
-Olá! Me chamo **Ana Júlia Ferreira Firmiano** e atuo na área de **Engenharia de Dados**.
+Olá! Sou **Ana Júlia Ferreira Firmiano**, atuo na área de **Engenharia de Dados**.
 
-- 🔭 Atualmente focada no desenvolvimento e otimização de pipelines de dados, modelagem e arquitetura de dados.
-- 💡 Busco continuamente aplicar as melhores práticas da engenharia de dados para transformar volumes brutos em informação estruturada e valiosa.
-- 📬 Conecte-se comigo através das minhas redes sociais logo abaixo!
+- 🔭 Atualmente focada no desenvolvimento de pipeline e arquitetura de dados.
+- 💡 Apaixonada por otimização de consultas e estruturação de dados para análise.
+- 🛠️ Principais tecnologias de trabalho no dia a dia: **Python** e **SQL**.
 
 <br />
 
@@ -28,36 +43,31 @@ Olá! Me chamo **Ana Júlia Ferreira Firmiano** e atuo na área de **Engenharia 
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=722F37" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=722F37" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=722F37" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=722F37" alt="GitHub" />
 </div>
 
 <br />
 
 ---
 
-### 🚀 Projetos em Destaque
+### 📌 Projetos em Destaque
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>📌 Projeto 01</h4>
-      <p>Descrição objetiva do projeto, os desafios de dados resolvidos, arquitetura utilizada e resultados alcançados.</p>
-      <p><b>Tecnologias:</b> Python, SQL</p>
-      <a href="LINK_DO_PROJETO_1">
-        <img src="https://img.shields.io/badge/Ver_Repositório-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto 1" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📌 Projeto 02</h4>
-      <p>Descrição objetiva do projeto, os desafios de dados resolvidos, arquitetura utilizada e resultados alcançados.</p>
-      <p><b>Tecnologias:</b> Python, SQL</p>
-      <a href="LINK_DO_PROJETO_2">
-        <img src="https://img.shields.io/badge/Ver_Repositório-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto 2" />
-      </a>
+    <td width="100%">
+      <h3 align="center">🥋 Sistemas de Artes Marciais</h3>
+      <p align="center">
+        Projeto focado no gerenciamento e processamento de dados para sistemas de artes marciais.
+      </p>
+      <p align="center">
+        <a href="https://github.com/anajufirmiano/Sistemas-de-Artes-Marciais">
+          <img src="https://img.shields.io/badge/Ver_Repositório-58111A?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
@@ -66,66 +76,39 @@ Olá! Me chamo **Ana Júlia Ferreira Firmiano** e atuo na área de **Engenharia 
 
 ---
 
-### 🏆 Conquistas no GitHub
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=anajufirmiano&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
-<br />
+  <!-- GitHub Stats & Top Languages -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anajufirmiano&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=722F37&text_color=CCCCCC&icon_color=722F37&border_color=58111A" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajufirmiano&layout=compact&theme=dark&bg_color=0D0D0D&title_color=722F37&text_color=CCCCCC&border_color=58111A" alt="Top Languages" />
 
----
+  <br /><br />
 
-### 📊 Estatísticas e Atividade
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anajufirmiano&theme=dark&background=0D0D0D&fire=722F37&ring=722F37&currStreakLabel=722F37&border=58111A&dates=CCCCCC&text=CCCCCC" alt="GitHub Streak" />
 
-<div align="center">
-  <a href="https://github.com/anajufirmiano">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajufirmiano&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=a855f7&text_color=94a3b8&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajufirmiano&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&text_color=94a3b8&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
+  <br /><br />
 
-<br />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anajufirmiano&theme=react-dark&bg_color=0D0D0D&color=722F37&line=800020&point=FFFFFF&area=true&hide_border=false&border_color=58111A" width="100%" alt="Activity Graph" />
 
-<div align="center">
-  <a href="https://github.com/anajufirmiano">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anajufirmiano&theme=tokyonight&background=0D1117&border=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
-  </a>
-</div>
+  <br /><br />
 
-<br />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=anajufirmiano&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anajufirmiano&theme=react-dark&bg_color=0d1117&hide_border=true&color=a855f7&line=a855f7&point=ffffff" width="100%" alt="Activity Graph" />
-</div>
+  <br /><br />
 
-<br />
-
----
-
-### 🐍 Snake Contribution Graph
-
-<div align="center">
+  <!-- Snake Contribution Game -->
+  <h3>🐍 Snake Contribution Graph</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anajufirmiano/anajufirmiano/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anajufirmiano/anajufirmiano/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anajufirmiano/anajufirmiano/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anajufirmiano/anajufirmiano/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anajufirmiano/anajufirmiano/output/github-contribution-grid-snake.svg" />
+    <img alt="github eat snake" src="https://raw.githubusercontent.com/anajufirmiano/anajufirmiano/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
 
-<br />
-
----
-
-### 🌐 Conecte-se Comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ana-julia-ferreira-firmiano-454966258" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/anajufirmiano" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </div>
 
 <br />
@@ -133,5 +116,6 @@ Olá! Me chamo **Ana Júlia Ferreira Firmiano** e atuo na área de **Engenharia 
 ---
 
 <div align="center">
-  <sub>Desenvolvido com 💜 por <b>Ana Júlia Ferreira Firmiano</b></sub>
+  <p><i>Desenvolvido com 🍷 e foco por Ana Júlia Ferreira Firmiano</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58111A&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
