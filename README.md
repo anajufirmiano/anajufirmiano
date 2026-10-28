@@ -53,7 +53,7 @@
 ### 📫 Vamos nos conectar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ana-júlia-ferreira-firmiano-454966258" target="_blank">
+  <a href="https://www.linkedin.com/in/ana-j%C3%BAlia-firmiano-454966258/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
